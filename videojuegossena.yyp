@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"BATMAN","folderPath":"folders/Sprites/BATMAN.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -39,8 +40,9 @@
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"spr_bat_man_running","path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
-    {"id":{"name":"spr_carita1","path":"sprites/spr_carita1/spr_carita1.yy",},},
+    {"id":{"name":"spr_bat_man_idle","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
