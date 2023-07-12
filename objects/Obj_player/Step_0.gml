@@ -10,12 +10,12 @@ sprite_index=spr_bat_man_running;
 image_xscale=-1;
 }
 if(keyboard_check(vk_up)){
-y=y+spd;
+y=y-spd;
 sprite_index=spr_bat_man_running;
 image_xscale=-1;
 }
 if(keyboard_check(vk_down)){
-y=y-spd;
+y=y+spd;
 sprite_index=spr_bat_man_running;
 image_xscale=-1;
 }
