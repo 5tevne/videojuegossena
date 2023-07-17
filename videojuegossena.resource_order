@@ -20,9 +20,11 @@
   "ResourceOrderSettings": [
     {"name":"Sprite5","order":17,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite4","order":16,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Obj_wall","order":1,"path":"objects/Obj_wall/Obj_wall.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Spr_tile_city","order":4,"path":"sprites/Spr_tile_city/Spr_tile_city.yy",},
     {"name":"spr_bat_man_running","order":1,"path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},
   ],
 }
