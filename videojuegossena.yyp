@@ -44,6 +44,7 @@
     {"id":{"name":"Tile_Set_city","path":"tilesets/Tile_Set_city/Tile_Set_city.yy",},},
     {"id":{"name":"Spr_tile_city","path":"sprites/Spr_tile_city/Spr_tile_city.yy",},},
     {"id":{"name":"spr_bat_man_running","path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"spr_bat_man_idle","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

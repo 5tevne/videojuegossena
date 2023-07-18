@@ -26,5 +26,6 @@
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Spr_tile_city","order":4,"path":"sprites/Spr_tile_city/Spr_tile_city.yy",},
     {"name":"spr_bat_man_running","order":1,"path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},
+    {"name":"Sprite8","order":18,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }
