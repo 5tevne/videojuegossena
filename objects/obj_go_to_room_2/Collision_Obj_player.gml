@@ -1,3 +1,2 @@
 /// @description 
-spd = 4;
-hp=100;
+room_goto(Room2)

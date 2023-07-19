@@ -22,3 +22,9 @@ image_xscale=-1;
 else {
 	sprite_index=spr_bat_man_idle;
 }
+depth=-y;
+if(hp<=0){
+room_goto(RoomGameOver)
+}
+show_debug_message("nos queda esto de vida")
+show_debug_message(hp);
