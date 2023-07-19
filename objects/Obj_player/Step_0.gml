@@ -24,6 +24,7 @@ else {
 }
 depth=-y;
 if(hp<=0){
+	
 room_goto(RoomGameOver)
 }
 show_debug_message("nos queda esto de vida")
