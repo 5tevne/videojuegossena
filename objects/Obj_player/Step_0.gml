@@ -1,20 +1,23 @@
-/// @description 
-if(keyboard_check(vk_right)){
+/// @description
+//keyboard input
+
+scr_get_input();
+if(right){
 x=x+spd;
 sprite_index=spr_bat_man_running;
 image_xscale=1;
 }
-else if(keyboard_check(vk_left)){
+else if(left){
 x=x-spd;
 sprite_index=spr_bat_man_running;
 image_xscale=-1;
 }
-else if(keyboard_check(vk_up)){
+else if(up){
 y=y-spd;
 sprite_index=spr_bat_man_running;
 image_xscale=-1;
 }
-else if(keyboard_check(vk_down)){
+else if(down){
 y=y+spd;
 sprite_index=spr_bat_man_running;
 image_xscale=-1;
